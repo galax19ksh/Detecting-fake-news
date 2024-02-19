@@ -32,7 +32,7 @@ TfidfVectorizer, PassiveAggressiveClassifier
 *	By classification report, we also got an aggregate score of 94%.
 
 ## Conclusion
-In this fake news detection project, I took a large dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. I ended up obtaining an accuracy score of 94% in magnitude. I am looking forward to next tasks.
+In this fake news detection project, I took a large dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. I ended up obtaining an accuracy score of 94% in magnitude.
 
 
 
